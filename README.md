@@ -24,4 +24,5 @@ REST한 방식의 api라는 건, 아래처럼 잘 설계된 API를 말한다.
 - 복수명사를 사용(/movies)
 - 필요하면 URL에 하위 자원을 표현.(/movies/23)
 - 필터조건을 허용할 수 있음.(/movies?state=active)
+<img width="530" alt="스크린샷 2020-10-12 오후 6 04 18" src="https://user-images.githubusercontent.com/31848384/95727588-4f101500-0cb5-11eb-88c4-493473939b66.png">
 
